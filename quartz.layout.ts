@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/mroberts1/byung-chul-han-wiki",
+      GitHub: "https://github.com/mroberts1/sinofuturism",
     },
   }),
 }

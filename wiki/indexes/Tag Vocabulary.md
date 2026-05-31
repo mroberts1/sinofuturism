@@ -9,7 +9,16 @@ Canonical list of tags in use. Tags derive from the subject's own conceptual voc
 
 ## In Use
 
-*None yet.*
+| Tag | Meaning |
+|-----|---------|
+| `sinofuturism` | The aesthetic-theoretical movement examining China, technology, and futurity; encompasses speculative art, SF, and critical theory |
+| `rengong-zhineng` | 人工智能 — Chinese AI; "humanmade knowing ability"; the specifically Chinese conceptualization and history of artificial intelligence |
+| `cosmotechnics` | Yuk Hui's framework for culturally-situated technology ontologies; the idea that different cosmologies generate different technicities |
+| `chinese-cybernetics` | The history of cybernetics in China: Wiener, Qian Xuesen, systems theory, qigong, Cultural Revolution suppression and revival |
+| `qianliyan` | 千里眼 — "thousand-mile eyes"; machine vision, surveillance, AI-enhanced optics; derived from Daoist myth |
+| `chinese-sf` | Chinese science fiction as a site of AI speculation; Liu Cixin, Xia Jia, Chen Qiufan, Regina Kanyu Wang |
+| `tangping` | 躺平 — "lying flat"; youth culture of minimal participation; counterpoint to techno-optimism |
+| `shanzhai` | 山寨 — "copycat" tech culture; rapid reproduction and cost-reduction as innovation mode; Shenzhen → DeepSeek |
 
 ## Rules
 

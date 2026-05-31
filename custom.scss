@@ -1,0 +1,38 @@
+// Custom styles for Sinofuturism Wiki
+
+// Responsive video container (YouTube, Vimeo)
+.video-container,
+.video-container-vimeo {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; // 16:9
+  margin: 1.5rem 0;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  background-color: var(--background-secondary, #1a1714);
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+  }
+
+  @media screen and (min-width: 1025px) {
+    max-width: 800px;
+    margin: 1.5rem auto;
+  }
+
+  @media screen and (min-width: 1440px) {
+    max-width: 900px;
+  }
+
+  @media print {
+    display: none;
+  }
+}
