@@ -6,7 +6,7 @@ created: 2026-05-31
 updated: 2026-06-01
 ---
 
-山寨 — literally "mountain fortress" (a stronghold outside official jurisdiction). As a technology concept, shanzhai names China's culture of rapid reproduction, adaptation, and cost-reduction of existing products — commonly dismissed as mere copying but, in the Sinofuturist framing, a distinct mode of intelligence and a deliberate cosmological position.
+山寨 — literally "mountain fortress" (a stronghold outside official jurisdiction). As a technology concept, shanzhai names China's culture of rapid reproduction, adaptation, and cost-reduction of existing products — commonly dismissed as mere copying but, in the Sinofuturist framing, a distinct mode of intelligence grounded in a Chinese ontology that never posited *creatio ex nihilo* in the first place.
 
 ## The Sinofuturist Manifesto Position
 
@@ -46,12 +46,24 @@ The 2025 DeepSeek release demonstrated shanzhai logic operating at the AI fronti
 
 Bratton notes this may strengthen Hangzhou — home to DeepSeek and Alibaba — as the next Shenzhen.
 
+## The Philosophical Foundation (Han)
+
+Byung-Chul Han's *Shanzhai: Deconstruction in China* (MIT Press, 2011) provides the philosophical archaeology beneath the contemporary phenomenon. Han's argument: **shanzhai is [[decreation]]** — the opposite of *creatio ex nihilo*. Chinese thought never posited an absolute origin, an immutable essence, or a fixed authorial identity. The concept of IP itself, in Chinese, derives from *quan* (权) — literally a sliding weight on a scale, provisional and situational. Copyright built on Western metaphysics of Being simply applies the wrong ontology.
+
+Key moves from Han:
+- **Zhen ji** (真跡, authentic trace): the Chinese "original" is always already a trace — processual, differential, subject to retrospective construction. Chang Dai-chien's forgeries of lost Old Masters were *more* original than originals. See [[the-trace]].
+- **Fuzhi** (複製, copy): two concepts — *fangzhipin* (obvious imitation) and *fuzhipin* (exact reproduction of equal value, no negative connotation). The Ise Shrine, rebuilt identically every 20 years, is the deepest original precisely because it has been copied most faithfully.
+- **The Dadaist game**: shanzhai labels mutate (Adidas → Adidos → Adadas) — parody of economic monopoly and enactment of [[process-vs-being|process over Being]].
+
+This connects shanzhai to [[cosmotechnics]]: both Han and [[yuk-hui]] argue Chinese thought operates on a different ontological register from Western metaphysics, with direct consequences for how we understand technology, originality, and creation.
+
 ## Relation to [[rengong-zhineng]]
 
 Shanzhai aligns with the rengong understanding of intelligence as coordination and collective production rather than individual genius. The value is not originary invention but the capacity to absorb, refine, and deploy at scale — an intelligence of implementation.
 
 ## Sources
 
-- [[lek-sinofuturism-1839-2046]] — Lek's "Chapter 2: Copying" (2016, founding statement)
+- [[han-shanzhai-deconstruction-in-china]] — Byung-Chul Han (2011), philosophical foundation
+- [[lek-sinofuturism-1839-2046]] — Lek's "Chapter 2: Copying" (2016, founding sinofuturist statement)
 - [[machine-decision-intro]] — Greenspan & Konior on shanzhai and DeepSeek
 - [[machine-decision-afterword]] — Bratton on implementation vs. invention and the Needham paradox

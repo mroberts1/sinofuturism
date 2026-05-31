@@ -19,6 +19,7 @@ Canonical list of tags in use. Tags derive from the subject's own conceptual voc
 | `chinese-sf` | Chinese science fiction as a site of AI speculation; Liu Cixin, Xia Jia, Chen Qiufan, Regina Kanyu Wang |
 | `tangping` | 躺平 — "lying flat"; youth culture of minimal participation; counterpoint to techno-optimism |
 | `shanzhai` | 山寨 — "copycat" tech culture; rapid reproduction and cost-reduction as innovation mode; Shenzhen → DeepSeek |
+| `decreation` | Han's *Ent-schöpfung* — the Chinese desubstantializing operation opposing *creatio ex nihilo*; shanzhai as decreation; process over Being |
 
 ## Rules
 

@@ -26,11 +26,15 @@ Index of all sources and concepts related to the sinofuturism research topic.
 | [[alphago]] | DeepMind Go AI; minimize-losing principle; 280M Chinese viewers |
 | [[deepseek]] | Hangzhou AI lab; shanzhai at frontier; chip-ban as innovation driver |
 | [[yuk-hui]] | 許煜 — cosmotechnics philosopher; *Question Concerning Technology in China* |
+| [[decreation]] | Han's *Ent-schöpfung*; shanzhai as decreation; process opposes creatio ex nihilo |
+| [[process-vs-being]] | Chinese process (Tao) vs Western Being; the ontological contrast underlying shanzhai |
+| [[the-trace]] | *Zhen ji* 真跡 — the Chinese "original" as trace; Chang Dai-chien; palimpsest logic |
 
 ## Primary Sources
 
 | Source | Section | Key Essays |
 |--------|---------|------------|
+| [[han-shanzhai-deconstruction-in-china]] | Book | Philosophical foundation of shanzhai; decreation, quan, zhen ji, process vs Being |
 | [[lek-sinofuturism-1839-2046]] | Founding manifesto | Seven chapters: Computing, Copying, Gaming, Studying, Addiction, Labor, Gambling; AI = Sinofuturism |
 | [[machine-decision-intro]] | Introduction | Greenspan & Konior survey of Chinese philosophy, AI fever, DeepSeek |
 | [[machine-decision-rengong]] | 人工 Humanmade | Frost on translation; Meng on Guizhou; Xia Jia on Covid AI; Granata on the machine child |

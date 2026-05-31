@@ -2,6 +2,20 @@
 
 Chronological record of ingests, queries, and lint passes.
 
+## [2026-06-01] ingest | Shanzhai: Deconstruction in China — Byung-Chul Han (MIT Press, 2011)
+
+Imported raw book + ingested materials from byung-chul-han-wiki. Source: `raw/books/Shanzhai_ Deconstruction in Chi - Byung-Chul Han/` (gitignored, local).
+
+**Source summary created:** han-shanzhai-deconstruction-in-china
+
+**New concept articles (3):** decreation, process-vs-being, the-trace
+
+**Updated:** shanzhai (added Han's philosophical framework: decreation, quan, zhen ji, process vs Being)
+
+**Tag vocabulary updated:** added `decreation`
+
+---
+
 ## [2026-06-01] ingest | Cosmotechnics (Foreword) — Yuk Hui, Angelaki 2020
 
 Ingested Yuk Hui, "Cosmotechnics," *Angelaki* 25:4 (2020). 2-page foreword to special issue; canonical definition: "unification between the cosmic order and the moral order through technical activities." Source: `raw/articles/yuk-hui-cosmotechnics.pdf`.
