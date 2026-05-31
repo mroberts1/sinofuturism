@@ -10,7 +10,7 @@ Ingested transcript of Lawrence Lek's founding video essay (YouTube/Vimeo, ~60 m
 
 **Concept articles updated:** sinofuturism (major rewrite with founding argument), shanzhai (added Lek's "copy everything" chapter and AlphaGo reframe), dark-forest-theory-of-intelligence (added AlphaGo parallel)
 
-**Master Index and Sinofuturism Topic Index updated**
+**Index and Sinofuturism Topic Index updated**
 
 ---
 
@@ -24,4 +24,4 @@ Ingested full anthology *Machine Decision Is Not Final* (ed. Greenspan, Konior; 
 
 **Tag vocabulary initialized (8 tags):** sinofuturism, rengong-zhineng, cosmotechnics, chinese-cybernetics, qianliyan, chinese-sf, tangping, shanzhai
 
-**Indexes created:** Sinofuturism Topic Index; Master Index populated
+**Indexes created:** Sinofuturism Topic Index; Index populated

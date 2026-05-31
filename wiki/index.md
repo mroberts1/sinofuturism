@@ -4,7 +4,7 @@ title: Sinofuturism
 
 A knowledge base on sinofuturism — the intersection of Chinese culture, technology, and futurity. LLM-compiled and maintained.
 
-Browse using the sidebar, or start with the [[Master Index]] and [[indexes/Sinofuturism Topic Index|Sinofuturism Topic Index]].
+Browse using the sidebar, or start with the [[indexes/Index|Index]] and [[indexes/Sinofuturism Topic Index|Sinofuturism Topic Index]].
 
 ## Concepts
 
