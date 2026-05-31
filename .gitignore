@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/
+.smart-env/
+.chum-cache/
+
+# Claude Code
+.claude/
+
+# Raw source material (copyrighted books/papers — kept locally only)
+raw/books/
+raw/papers/
+
+# macOS
+.DS_Store
+**/.DS_Store
+**/.nomedia
+
+# Quartz — local dev install and build output (not committed)
+.quartz/
+public/
+.quartz-cache/
+
+# Node
+node_modules/
