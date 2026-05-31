@@ -8,6 +8,10 @@ updated: 2026-06-01
 
 An aesthetic and theoretical movement examining the relationship between China, technology, AI, and futurity. Defined by Lawrence Lek's 2016 founding manifesto as "an invisible movement. A specter already embedded into a trillion industrial products. A billion individuals, and a million veiled narratives." It refuses both naive techno-optimism about China's rise and the Western anxious framing of China as a dystopian surveillance state.
 
+<div class="video-container-vimeo">
+  <iframe src="https://player.vimeo.com/video/179509486" title="Sinofuturism (1839–2046 AD) — Lawrence Lek" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Founding Argument (Lek, 2016)
 
 Sinofuturism "has arisen without conscious intention or authorship" — it is "a science fiction that already exists," not a program or ideology but an emergent distributed phenomenon. Lek's video essay is described as "a retroactive manifesto": naming something already underway.
