@@ -2,6 +2,16 @@
 
 Chronological record of ingests, queries, and lint passes.
 
+## [2026-06-01] ingest | Cosmotechnics (Foreword) — Yuk Hui, Angelaki 2020
+
+Ingested Yuk Hui, "Cosmotechnics," *Angelaki* 25:4 (2020). 2-page foreword to special issue; canonical definition: "unification between the cosmic order and the moral order through technical activities." Source: `raw/articles/yuk-hui-cosmotechnics.pdf`.
+
+**Source summary created:** hui-cosmotechnics-angelaki-2020
+
+**Concepts updated:** cosmotechnics (added precise definition, Leroi-Gourhan, Anthropocene stakes), yuk-hui (added source link)
+
+---
+
 ## [2026-06-01] lint | Health check — broken links, orphans, missing concepts
 
 **Broken links fixed:** `[[chinese-sf]]` removed from 4 files (tag, not article); replaced with relevant concept links.

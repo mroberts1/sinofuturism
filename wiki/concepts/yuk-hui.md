@@ -40,6 +40,7 @@ Greenspan and Konior in *Machine Decision Is Not Final* engage Hui centrally but
 
 ## Sources
 
+- [[hui-cosmotechnics-angelaki-2020]] — Hui's own foreword; most concise statement of the concept; Anthropocene framing
 - [[machine-decision-intro]] — extensive engagement with Hui's framework
 - [[machine-decision-linggan]] — You Mi on Qian Xuesen and cosmotechnics
 - [[cosmotechnics]] — concept article developing the framework

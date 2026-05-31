@@ -16,6 +16,7 @@ Central directory for the Sinofuturism Knowledge Base.
 
 | Source | Authors | Date | Tags |
 |--------|---------|------|------|
+| [Cosmotechnics (Foreword)](../sources/hui-cosmotechnics-angelaki-2020.md) | Yuk Hui | 2020 | cosmotechnics, sinofuturism |
 | [Sinofuturism 1839–2046 AD](../sources/lek-sinofuturism-1839-2046.md) | Lawrence Lek | 2016 | sinofuturism, shanzhai, rengong-zhineng, chinese-sf |
 | [Machine Decision — Introduction](../sources/machine-decision-intro.md) | Greenspan, Konior | 2025 | sinofuturism, rengong-zhineng, cosmotechnics, chinese-cybernetics |
 | [Machine Decision — Rengong 人工](../sources/machine-decision-rengong.md) | Frost, Meng, Xia Jia, Granata | 2025 | rengong-zhineng, sinofuturism, chinese-sf |
