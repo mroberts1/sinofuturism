@@ -34,4 +34,4 @@ Amy Ireland's science fiction story "Chive City" (in *Machine Decision Is Not Fi
 
 - [[machine-decision-zhineng]] — Ireland's "Chive City"
 - [[machine-decision-intro]] — Greenspan & Konior on tangping and post-pandemic mood
-- See also: [[sinofuturism]], [[chinese-sf]]
+- See also: [[sinofuturism]], [[rengong-zhineng]]

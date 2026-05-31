@@ -2,6 +2,18 @@
 
 Chronological record of ingests, queries, and lint passes.
 
+## [2026-06-01] lint | Health check — broken links, orphans, missing concepts
+
+**Broken links fixed:** `[[chinese-sf]]` removed from 4 files (tag, not article); replaced with relevant concept links.
+
+**New concept articles (4):** lawrence-lek, alphago, deepseek, yuk-hui
+
+**Remaining unlinked terms (medium priority):** Yijing, Liu Cixin, Mou Zongsan, Century of Humiliation, Afrofuturism, Orientalism
+
+**Missing sources to ingest:** Yuk Hui *The Question Concerning Technology in China* (2016); Liu Cixin *Three-Body Problem*
+
+---
+
 ## [2026-06-01] ingest | Sinofuturism 1839–2046 AD — Lawrence Lek (2016)
 
 Ingested transcript of Lawrence Lek's founding video essay (YouTube/Vimeo, ~60 min, transcribed via Gemini 2.5 Flash). Source: `raw/audiovisual/lawrence-lek-sinofuturism-1839-2046.md`.

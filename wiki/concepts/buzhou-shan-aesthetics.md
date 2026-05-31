@@ -34,4 +34,4 @@ The book's title, *Machine Decision Is Not Final*, is drawn from a machine-trans
 
 - [[machine-decision-buzhou-shan]] — Long's essay on Chinese AI art; Wang's and Qiufan's fiction
 - [[machine-decision-intro]] — the book title's origin; the aesthetic of glitch
-- See also: [[sinofuturism]], [[chinese-sf]]
+- See also: [[sinofuturism]], [[lawrence-lek]]

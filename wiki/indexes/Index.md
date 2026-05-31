@@ -1,7 +1,7 @@
 ---
 title: Index
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 ---
 
 Central directory for the Sinofuturism Knowledge Base.
@@ -40,3 +40,7 @@ Central directory for the Sinofuturism Knowledge Base.
 | [Qianliyan 千里眼](../concepts/qianliyan.md) | qianliyan, sinofuturism, rengong-zhineng |
 | [Chinese Cybernetics](../concepts/chinese-cybernetics.md) | chinese-cybernetics, rengong-zhineng, sinofuturism |
 | [Buzhou Shan Aesthetics 不周山](../concepts/buzhou-shan-aesthetics.md) | sinofuturism, chinese-sf, rengong-zhineng |
+| [Lawrence Lek 陆明龙](../concepts/lawrence-lek.md) | sinofuturism, rengong-zhineng |
+| [AlphaGo](../concepts/alphago.md) | rengong-zhineng, sinofuturism |
+| [DeepSeek](../concepts/deepseek.md) | rengong-zhineng, shanzhai, sinofuturism |
+| [Yuk Hui 許煜](../concepts/yuk-hui.md) | cosmotechnics, sinofuturism, rengong-zhineng |

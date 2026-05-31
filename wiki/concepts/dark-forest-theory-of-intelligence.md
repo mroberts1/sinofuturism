@@ -45,4 +45,4 @@ Konior developed the dark forest framework further in *The Dark Forest Theory of
 - [[machine-decision-zhineng]] — Konior's essay "The Dark Forest Theory of Intelligence"
 - [[machine-decision-buzhou-shan]] — Xin Wang's "Machine Envy" (masquerade and strategic artificiality)
 - [[lek-sinofuturism-1839-2046]] — AlphaGo's minimize-losing strategy as dark-forest structure
-- See also: [[rengong-zhineng]], [[chinese-sf]], [[sinofuturism]]
+- See also: [[rengong-zhineng]], [[sinofuturism]], [[alphago]]

@@ -43,4 +43,4 @@ Global rituals of reintegration — attempting to resynchronize body and externa
 
 ## Key Concepts
 
-[[buzhou-shan-aesthetics]], [[chinese-sf]], [[sinofuturism]], shuiyue jinghua, distributed cognition, machine masquerade, glitch aesthetics
+[[buzhou-shan-aesthetics]], [[sinofuturism]], [[lawrence-lek]], shuiyue jinghua, distributed cognition, machine masquerade, glitch aesthetics

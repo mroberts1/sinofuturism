@@ -22,6 +22,10 @@ Index of all sources and concepts related to the sinofuturism research topic.
 | [[tangping]] | 躺平 — lying flat; youth withdrawal; sinopessimism |
 | [[dark-forest-theory-of-intelligence]] | Konior: intelligence may choose strategic silence or deceit |
 | [[buzhou-shan-aesthetics]] | 不周山 — glitch as cosmologically constitutive; shuiyue jinghua |
+| [[lawrence-lek]] | 陆明龙 — founding artist; Sinofuturist universe; Geomancer, AIDOL, NOX |
+| [[alphago]] | DeepMind Go AI; minimize-losing principle; 280M Chinese viewers |
+| [[deepseek]] | Hangzhou AI lab; shanzhai at frontier; chip-ban as innovation driver |
+| [[yuk-hui]] | 許煜 — cosmotechnics philosopher; *Question Concerning Technology in China* |
 
 ## Primary Sources
 
