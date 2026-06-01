@@ -76,3 +76,4 @@ Post-pandemic, "Sino-no-futurism" and "Sinopessimism" emerged alongside [[tangpi
 - [[lek-sinofuturism-1839-2046]] — founding manifesto (2016)
 - [[machine-decision-intro]] — Greenspan & Konior theoretical elaboration (2025)
 - [[machine-decision-qianliyan]] — "Sinofuturism and AI: A Conversation" (Lek, Goodman, Greenspan)
+- [[aesthetics-wiki-sinofuturism]] — community-curated entry on the Aesthetics Wiki; vernacular visual canon (Cao Fei, Qiu Anxiong, Fan Wennan, Liu Cixin)

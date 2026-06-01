@@ -2,6 +2,24 @@
 
 Chronological record of ingests, queries, and lint passes.
 
+## [2026-06-01] ingest | Sinofuturism — Aesthetics Wiki (Fandom, 2023–)
+
+Ingested the community-curated Aesthetics Wiki entry on Sinofuturism via the Fandom MediaWiki API (no Cloudflare blocking, returns parsed wikitext directly). Page ID 54515.
+
+Endpoint: `https://aesthetics.fandom.com/api.php?action=parse&page=Sinofuturism&prop=text|wikitext&format=json`
+
+**Source summary created:** aesthetics-wiki-sinofuturism
+
+**Why it matters:** sits at a different elevation than the rest of the source pool — vernacular, ESL-edited, citation-light — but surfaces a Chinese-language artistic canon (Cao Fei 曹斐, Qiu Anxiong 邱黯雄, Fan Wennan 范文南, Shi Jiepeng 史杰鹏) and a horizontal mapping of sibling aesthetics (Guochao 国潮, Silkpunk, Neo-Chinese Style, Indigenous Futurisms, Y3K) absent from the academic sources.
+
+**Linked from:** home page (added to Aesthetic-artistic track as entry #5; added to Sources table); indexes/Index.
+
+**Tags used:** sinofuturism, chinese-sf, rengong-zhineng. No new tags added.
+
+**Follow-up candidates:** the wiki's media canon names six Chinese-language artists/works that should eventually become their own concept or source entries — Cao Fei, Qiu Anxiong, Fan Wennan, Shi Jiepeng & Xu Ruotao, Liu Cixin's *Three-Body Problem* trilogy, *The Wandering Earth* film series. Liu Cixin is the highest-priority gap.
+
+---
+
 ## [2026-06-01] ingest | Shanzhai: Deconstruction in China — Byung-Chul Han (MIT Press, 2011)
 
 Imported raw book + ingested materials from byung-chul-han-wiki. Source: `raw/books/Shanzhai_ Deconstruction in Chi - Byung-Chul Han/` (gitignored, local).

@@ -34,6 +34,7 @@ If you're new to this material, pick a path below. Each one is 3–4 articles, o
 2. [[concepts/buzhou-shan-aesthetics\|Buzhou Shan Aesthetics 不周山]] — glitch as cosmologically constitutive
 3. [[concepts/dark-forest-theory-of-intelligence\|Dark Forest Theory of Intelligence]] — intelligence that chooses silence
 4. [[concepts/tangping\|Tangping 躺平]] — the counter-mood: lying flat against the techno-optimist machine
+5. [[sources/aesthetics-wiki-sinofuturism\|Sinofuturism (Aesthetics Wiki)]] — the vernacular canon: Cao Fei, Qiu Anxiong, Fan Wennan, *The Three-Body Problem*
 
 ---
 
@@ -67,6 +68,7 @@ Or browse the [[indexes/Index|full Index]] and [[indexes/Sinofuturism Topic Inde
 | Source | Type | Date |
 |--------|------|------|
 | [[sources/lek-sinofuturism-1839-2046\|Sinofuturism 1839–2046 AD]] | Video essay | 2016 |
+| [[sources/aesthetics-wiki-sinofuturism\|Sinofuturism (Aesthetics Wiki)]] | Wiki entry | 2023– |
 | [[sources/hui-cosmotechnics-angelaki-2020\|Cosmotechnics (Foreword)]] | Journal article | 2020 |
 | [[sources/han-shanzhai-deconstruction-in-china\|Shanzhai: Deconstruction in China]] | Book | 2011 |
 | [[sources/machine-decision-intro\|Machine Decision — Introduction]] | Book chapter | 2025 |
