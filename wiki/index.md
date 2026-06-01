@@ -28,7 +28,7 @@ If you're new to this material, pick a path below. Each one is 3–4 articles, o
 3. [[concepts/linggan\|Linggan 灵感]] — Qian's "noetic science" — inspiration engineering as state project
 4. [[concepts/deepseek\|DeepSeek]] — shanzhai logic at the AI frontier (2024–25)
 
-### 🎬 Aesthetic-artistic track
+### 🎬 Aesthetics track
 *Sinofuturism through its artists and SF writers.*
 1. [[concepts/lawrence-lek\|Lawrence Lek]] — the artist-theorist who named the movement
 2. [[concepts/buzhou-shan-aesthetics\|Buzhou Shan Aesthetics 不周山]] — glitch as cosmologically constitutive
