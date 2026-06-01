@@ -3,7 +3,7 @@ title: "Sinofuturism (Aesthetics Wiki)"
 source_type: wiki
 url: https://aesthetics.fandom.com/wiki/Sinofuturism
 authors: [Aesthetics Wiki contributors]
-date: 2023
+date: 2023-01-01
 date_label: "2023–"
 tags: [sinofuturism, chinese-sf, rengong-zhineng]
 ---
