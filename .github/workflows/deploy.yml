@@ -46,6 +46,8 @@ jobs:
           cp vault/quartz.config.ts quartz/quartz.config.ts
           cp vault/quartz.layout.ts quartz/quartz.layout.ts
           cp vault/custom.scss quartz/quartz/styles/custom.scss
+          cp vault/static/icon.png quartz/quartz/static/icon.png
+          cp vault/static/og-image.png quartz/quartz/static/og-image.png
 
       - name: Build
         run: npx quartz build --directory ../vault/wiki

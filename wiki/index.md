@@ -8,27 +8,27 @@ A knowledge base on sinofuturism — the intersection of Chinese culture, techno
 
 If you're new to this material, pick a path below. Each one is 3–4 articles, ordered so the next builds on the last.
 
-### 🜂 The 30-minute primer
+### 🜂 30-minute primer
 *The founding argument, in three reads.*
 1. [[concepts/sinofuturism\|Sinofuturism]] — Lek's founding move: AI as a distributed Chinese intelligence
 2. [[concepts/shanzhai\|Shanzhai 山寨]] — copying as a mode of intelligence, not a failure of one
 3. [[concepts/rengong-zhineng\|Rengong Zhineng 人工智能]] — what the Chinese word for "AI" actually means
 
-### ☯ The philosophy track
+### ☯ Philosophy track
 *Cosmotechnics, decreation, and the metaphysics of Chinese technicity.*
 1. [[concepts/cosmotechnics\|Cosmotechnics]] — Yuk Hui's reframing of technology as cosmologically situated
 2. [[concepts/yuk-hui\|Yuk Hui]] — the philosopher and the program
 3. [[concepts/process-vs-being\|Process vs Being]] — the East/West ontological split Han diagnoses
 4. [[concepts/the-trace\|The Trace]] — Han's *zhen ji*: the trace as the Chinese alternative to authorship
 
-### 🏛 The history track
+### 🏛 History track
 *From Qian Xuesen's cybernetics to the AI moment.*
 1. [[concepts/qian-xuesen\|Qian Xuesen 钱学森]] — Caltech → house arrest → father of Chinese cybernetics
 2. [[concepts/chinese-cybernetics\|Chinese Cybernetics]] — Wiener in Beijing; qigong fever; suppression and revival
 3. [[concepts/linggan\|Linggan 灵感]] — Qian's "noetic science" — inspiration engineering as state project
 4. [[concepts/deepseek\|DeepSeek]] — shanzhai logic at the AI frontier (2024–25)
 
-### 🎬 The aesthetic-artistic track
+### 🎬 Aesthetic-artistic track
 *Sinofuturism through its artists and SF writers.*
 1. [[concepts/lawrence-lek\|Lawrence Lek]] — the artist-theorist who named the movement
 2. [[concepts/buzhou-shan-aesthetics\|Buzhou Shan Aesthetics 不周山]] — glitch as cosmologically constitutive

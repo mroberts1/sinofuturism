@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect x="0" y="0" width="1200" height="675" fill="#faf8f4"/>
+  <rect x="0" y="0" width="1200" height="675" fill="#e8e4dc" opacity="0.18"/>
+  <rect x="0" y="0" width="1200" height="3" fill="#5c4a3a" opacity="0.35"/>
+  <rect x="0" y="672" width="1200" height="3" fill="#5c4a3a" opacity="0.35"/>
+
+  <!-- 中 watermark: smaller, fully on-canvas, right side -->
+  <text x="1100" y="510"
+        font-family="Noto Serif CJK SC, Noto Serif SC, serif"
+        font-weight="700" font-size="460"
+        fill="#5c4a3a" opacity="0.10"
+        text-anchor="end">中</text>
+
+  <!-- Eyebrow tag -->
+  <text x="80" y="225"
+        font-family="Inter, sans-serif"
+        font-weight="600" font-size="22"
+        letter-spacing="6"
+        fill="#5c4a3a">A KNOWLEDGE BASE</text>
+
+  <!-- Main title -->
+  <text x="80" y="335"
+        font-family="Inter, sans-serif"
+        font-weight="700" font-size="96"
+        fill="#1a1410">Sinofuturism</text>
+
+  <!-- Subtitle, two lines -->
+  <text x="80" y="410"
+        font-family="Inter, sans-serif"
+        font-weight="400" font-size="36"
+        fill="#3d3530">The intersection of Chinese culture,</text>
+  <text x="80" y="455"
+        font-family="Inter, sans-serif"
+        font-weight="400" font-size="36"
+        fill="#3d3530">technology, and futurity.</text>
+
+  <!-- Rule -->
+  <rect x="80" y="540" width="120" height="2" fill="#5c4a3a"/>
+
+  <!-- URL -->
+  <text x="80" y="595"
+        font-family="IBM Plex Mono, ui-monospace, monospace"
+        font-weight="400" font-size="22"
+        fill="#5c4a3a">mroberts1.github.io/sinofuturism</text>
+</svg>
