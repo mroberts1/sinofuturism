@@ -19,7 +19,50 @@
   }
 }
 
-// Responsive video container (YouTube, Vimeo)
+// =============================================================================
+// Item 1: widen content column + serif body
+// =============================================================================
+
+// Use serif (--bodyFont = Source Serif 4) ONLY inside article content.
+// The rest of the page (sidebars, search, breadcrumbs, footer, UI chrome)
+// stays in Inter via --headerFont.
+body {
+  font-family: var(--headerFont);
+}
+
+article {
+  // Comfortable reading column. The Quartz grid sizes the center cell
+  // automatically; we cap article width and center it within the cell so
+  // the line length stays in the 65–75ch sweet spot at any viewport ≥1200px.
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+
+  // Slightly looser leading and a touch more size for the serif.
+  font-size: 1.0625rem; // ~17px
+  line-height: 1.65;
+
+  // Serif body (var(--bodyFont) = Source Serif 4) with CJK fallback so hanzi
+  // inherits a consistent serif and doesn't get bumped to a heavy system
+  // fallback (PingFang/SimSun lottery). Browsers use Noto Serif SC when a
+  // CJK codepoint is encountered.
+  font-family: var(--bodyFont), "Noto Serif SC", "Source Han Serif SC",
+    "Songti SC", serif;
+
+  // Headings inside the article remain Inter (sans) for hierarchy contrast.
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--headerFont);
+  }
+
+  // Inline code and pre keep the mono font Quartz already wires up.
+}
+
+// Keep tables, blockquotes etc. inside article inheriting the serif.
+// Inline code stays mono (Quartz already targets `code` element directly).
+
+// =============================================================================
+// Existing: Responsive video container (YouTube, Vimeo)
+// =============================================================================
 .video-container,
 .video-container-vimeo {
   position: relative;
