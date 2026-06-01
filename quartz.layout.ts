@@ -26,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       useSaveState: true,
+      filterFn: (node) => node.name !== "sources",
     })),
   ],
   right: [
@@ -48,6 +49,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       useSaveState: true,
+      filterFn: (node) => node.name !== "sources",
     })),
   ],
   right: [
