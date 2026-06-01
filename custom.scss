@@ -1,6 +1,24 @@
 // Custom styles for Sinofuturism Wiki
 @use "./base.scss";
 
+// Explorer sidebar — tighter text, no word-wrap
+#explorer {
+  .folder-outer > li > .folder-container,
+  .folder-content li > a {
+    font-size: 0.8rem;
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .folder-container {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+}
+
 // Responsive video container (YouTube, Vimeo)
 .video-container,
 .video-container-vimeo {
