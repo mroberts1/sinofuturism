@@ -61,6 +61,122 @@ article {
 // Inline code stays mono (Quartz already targets `code` element directly).
 
 // =============================================================================
+// Item 4: tables + callouts
+// =============================================================================
+
+// --- Tables ----------------------------------------------------------------
+// Replace Quartz's default grid-of-thin-borders look with a scholarly table
+// style: a bronze top/bottom rule on the header, hairline row separators,
+// subtle zebra-striping using --highlight, and a bolder first column so
+// "key | value" tables (Seven Principles, sources lists, etc.) read at a
+// glance.
+
+article table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.75rem 0;
+  font-size: 0.9375rem; // ~15px — slightly tighter than body to fit more
+  line-height: 1.5;
+  font-family: var(--bodyFont), "Noto Serif SC", "Source Han Serif SC",
+    "Songti SC", serif;
+
+  // Strip the default Quartz borders so we can re-add only what we want.
+  th, td {
+    border: none;
+    padding: 0.6rem 0.85rem;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  // Header row: bronze rule above and below, no cell borders.
+  thead tr {
+    border-top: 2px solid var(--secondary);
+    border-bottom: 2px solid var(--secondary);
+  }
+
+  thead th {
+    font-family: var(--headerFont);
+    font-weight: 600;
+    font-size: 0.875rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--secondary);
+  }
+
+  // Body rows: hairline separator, zebra-stripe with --highlight.
+  tbody tr {
+    border-bottom: 1px solid var(--lightgray);
+  }
+  tbody tr:nth-child(even) {
+    background-color: var(--highlight);
+  }
+  tbody tr:last-child {
+    border-bottom: 2px solid var(--secondary);
+  }
+
+  // First column: bolder, slightly darker, to act as the row key.
+  tbody td:first-child {
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  // Internal links inside table cells: keep the wiki-link affordance but
+  // don't let them break the table's color rhythm.
+  a {
+    color: var(--secondary);
+  }
+}
+
+// --- Callouts --------------------------------------------------------------
+// Recolor the most useful Obsidian callout types so they pick up the warm
+// parchment-and-bronze palette instead of Quartz's generic bright blues
+// and greens. Use callouts in articles via:
+//   > [!quote] Optional title
+//   > Pull-quote body text.
+//
+// 'quote' already inherits --secondary from base.scss; the rest below get
+// custom palette colours.
+
+.callout {
+  &[data-callout="note"] {
+    --color: var(--secondary);
+    --border: var(--secondary);
+    --bg: var(--highlight);
+  }
+  &[data-callout="abstract"],
+  &[data-callout="summary"] {
+    --color: var(--tertiary);
+    --border: var(--tertiary);
+    --bg: var(--highlight);
+  }
+  &[data-callout="info"],
+  &[data-callout="todo"] {
+    --color: var(--secondary);
+    --border: var(--lightgray);
+    --bg: transparent;
+  }
+  &[data-callout="example"] {
+    --color: var(--tertiary);
+    --border: var(--lightgray);
+    --bg: var(--highlight);
+  }
+  &[data-callout="tip"],
+  &[data-callout="success"],
+  &[data-callout="question"] {
+    --color: var(--secondary);
+    --border: var(--secondary);
+    --bg: var(--highlight);
+  }
+  // Quote is intentionally left at Quartz default (already uses --secondary)
+  // but make the body italic so it actually reads as a pull-quote.
+  &[data-callout="quote"] {
+    & > .callout-content {
+      font-style: italic;
+    }
+  }
+}
+
+// =============================================================================
 // Existing: Responsive video container (YouTube, Vimeo)
 // =============================================================================
 .video-container,
